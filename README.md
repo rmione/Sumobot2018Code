@@ -4,4 +4,4 @@ Designed in Inventor and 3d printed by [Ethan](https://github.com/Ethan-CraneV)
 
 Programmed by [Riley](https://github.com/rmione), [Matt](https://github.com/mmione), and [Ethan](https://github.com/Ethan-CraneV). 
 
-![boe bot]("./img/bot.jpg")
+![alt text](./img/bot.jpg)
